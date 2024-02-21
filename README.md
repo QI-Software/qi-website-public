@@ -38,7 +38,9 @@ Encountering issues or have questions? Our support team is ready to assist you. 
 
 ## 🌟 Stay Connected
 
-Don't miss out on future updates and new features. Follow us on our social media channels and subscribe to our newsletter for the latest from qi.games.
+Don't miss out on future updates and new features. Follow us on our social media channels.
+
+[Discord](https://discord.gg/deadmatter)
 
 Thank you for being an integral part of our gaming community. We're excited for you to experience the new and improved qi.games!
 
