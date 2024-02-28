@@ -17,8 +17,6 @@ For enhanced security, all users migrating from the old version **must reset the
 3. Enter the email address you used to register.
 4. Follow the reset instructions sent to your email.
 
-After resetting your password, you'll be ready to explore all the new features we've introduced!
-
 ### Claim Your Game Keys
 
 If you have game keys waiting to be claimed, you can do so easily through our new interface.
@@ -29,8 +27,6 @@ If you have game keys waiting to be claimed, you can do so easily through our ne
 2. Navigate to the **Orders** tab.
 3. Find the **"Claim Game Key(s)"** button next to your order.
 4. Click to reveal and claim your game keys.
-
-Start claiming your game keys today and enjoy the best of qi.games without any hassle.
 
 ## 🤝 Support
 
