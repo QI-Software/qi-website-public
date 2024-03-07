@@ -32,6 +32,8 @@ If you have game keys waiting to be claimed, you can do so easily through our ne
 
 Encountering issues or have questions? Our support team is ready to assist you. For any concerns that shouldn't be shared publicly, please reach out to us directly through our contact form.
 
+If you encounter issues such as missing products, keys, or similar concerns, please submit a [GitHub issue](https://github.com/QI-Software/qi-website-public/issues) and include all relevant information, such as your email, order number, and any applicable screenshots.
+
 ## 🌟 Stay Connected
 
 Don't miss out on future updates and new features. Follow us on our social media channels.
